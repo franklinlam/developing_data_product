@@ -1,1 +1,1 @@
-# developing_data_product
+# Shiny Application for Developing Data Product Project
